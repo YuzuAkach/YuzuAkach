@@ -1,5 +1,4 @@
 - Hi, I’m @yuzuizdn
-- My real name is Izzudin Yusuf
 - Pronouns: He/His
 - Fun fact: I'm Javanese
 
