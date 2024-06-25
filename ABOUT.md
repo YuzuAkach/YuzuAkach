@@ -1,0 +1,4 @@
+- Hi, I’m @yuzuizdn or Izzudin Yuzu (Either you can call me Yusuf)
+- He/His
+- Republic of Indonesia, Central Java, Cilacap Regency
+- 1X April
