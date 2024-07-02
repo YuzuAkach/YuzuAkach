@@ -7,4 +7,4 @@
 - Republic of Indonesia, Central Java, Cilacap Regency
 - 1X April
 <br><br><br>
-Blud i have an (likely) abandoned projects
+Dude i have an (likely) abandoned projects
