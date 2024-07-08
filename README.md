@@ -5,6 +5,4 @@
   </details>
 - He/His
 - Republic of Indonesia, Central Java, Cilacap Regency
-- 1X April
-<br><br><br>
-Dude i have an (likely) abandoned projects
+- 15 April
