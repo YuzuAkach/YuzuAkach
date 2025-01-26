@@ -2,11 +2,20 @@ body {
     font-family:  'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-image: url(/assets/image/illustration_34028718_20211203_94546192-0.jpg) ;
+    background-image: url(/assets/image/illustration_21714218_20230922_111931272-0.png);
     background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
+    background-position: center center;
+    background-color: rgba(0, 0, 0, 0.5);
+    background-attachment: fixed;
     
+}
+
+body::-webkit-scrollbar {
+    display: none; 
+}
+
+html {
+    scrollbar-width: none; 
 }
 
 header {
@@ -22,9 +31,9 @@ main {
     padding-top: 5%;
     margin-top: 5%;
     margin-bottom: 5%;
-    margin-left: 30%;
-    margin-right: 30%;
-    background-color: rgba(255, 255, 255, 0.85);
+    margin-left: 32%;
+    margin-right: 32%;
+    background-color: rgba(255, 255, 255, 0.70);
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
 }
 
@@ -72,5 +81,18 @@ center {
 }
 
 .Profile-photo {
-    border-radius: 100%; border: 3px solid rgba(0, 0, 0, 0.5);
+    border-radius: 100%; 
+    border: 1px solid rgba(0, 0, 0, 0.5);
+    max-height: auto;
+    max-width: 30%;
+}
+
+.about {
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.credit {
+    padding-left: 10%;
+    padding-right: 10%;
 }

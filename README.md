@@ -3,13 +3,13 @@
 **A bit about me :**
 
 * **Pronouns :** He/Him
-* **Speech :** Indonesian, English , Japanese _(still learning lol)_
-* **Skills :** Wasting time
+* **Speech :** Indonesian, English , Japanese _(using translator sometimes)_
+* **Skills :** Loving myself
 
 <br>
 
 **Contact me :**
 
-* **X :** [YuzuAkach](https://x.com/YuzuAkach)
-* **Telegram :** [@YuzuAkach](https://Telegram.me/YuzuAkach)
-* **Email :** [yuzuakach@outlook.com](mailto:yuzuakach@outlook.com)
+* [**X**](https://x.com/YuzuAkach)
+* [**Telegram**](https://Telegram.me/YuzuAkach)
+* [**Email**](mailto:yuzuakach@outlook.com)
