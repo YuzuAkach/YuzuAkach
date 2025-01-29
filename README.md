@@ -3,7 +3,7 @@
 **A bit about me :**
 
 * **Pronouns :** He/Him
-* **Speech :** Indonesian, English , Japanese _(using translator sometimes)_
+* **Speech :** Indonesian, English, Japanese _(using translator sometimes)_
 * **Skills :** Loving myself
 
 <br>
