@@ -1,4 +1,4 @@
-# Hi, I'm [YuzuAkach](https://yuzuakach.vercel.app) ! <img src="/assets/image/Airi 03_st.ayaka.one.png" width="50" height="50">
+# Hi, I'm [YuzuAkach](https://yuzuakach.vercel.app) ! <img src="/assets/media/image/Airi 03_st.ayaka.one.png" width="50" height="50">
 
 **A bit about me :**
 
