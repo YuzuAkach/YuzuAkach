@@ -5,7 +5,7 @@
 * **Pronouns :** *Preffer neutral gender (actually male)
 * **Speech :** Indonesian, English, Japanese _(using translator mostly)_
 * **Skills :** Basic HTML, CSS a.k.a basic skilled
-* **Activity freq:** Rarely active
+* **Activity freq :** Rarely active
 * **Oshi's :** Shirakami Fubukie
 
 <br>
