@@ -2,14 +2,16 @@
 
 **A bit about me :**
 
-* **Pronouns :** He/Him
-* **Speech :** Indonesian, English, Japanese _(using translator sometimes)_
-* **Skills :** Loving myself
+* **Pronouns :** *Preffer neutral gender (actually male)
+* **Speech :** Indonesian, English, Japanese _(using translator mostly)_
+* **Skills :** Basic HTML, CSS a.k.a basic skilled
+* **Activity freq:** Rarely active
+* **Oshi's :** Shirakami Fubukie
 
 <br>
 
 **Contact me :**
 
-* [**X**](https://x.com/YuzuAkach)
+* [**Twitter**](https://x.com/YuzuAkach)
 * [**Telegram**](https://Telegram.me/YuzuAkach)
 * [**Email**](mailto:yuzuakach@outlook.com)
