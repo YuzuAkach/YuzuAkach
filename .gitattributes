@@ -1,0 +1,2 @@
+# Mengunci semua file agar tidak berubah saat di-merge dari cabang lain
+* merge=ours
