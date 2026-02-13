@@ -1,11 +1,11 @@
 body {
-    font-family:  'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: 'Sans Serif JP', 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', sans-serif;
     margin: 0;
     padding: 0;
-    background-image: url(/assets/media/image/illustration_21714218_20230922_111931272-0.webp);
+    background-image: linear-gradient(rgba(255, 255, 255, 0.95), rgba(255, 255, 255, 0.95)), url("/assets/media/image/kv_album_pc (1).webp");
     background-size: cover;
     background-position: center center;
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color: rgba(255, 255, 255, );
     background-attachment: fixed;
     
 }
@@ -33,7 +33,7 @@ main {
     margin: 0 auto;
     margin-top: 5vh;
     margin-bottom: 5vh;
-    background-color: rgba(255, 255, 255, 0.70);
+    background-color: rgba(255, 255, 255, 0.05);
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
 }
 
@@ -84,7 +84,7 @@ center {
     border-radius: 100%; 
     border: 1px solid rgba(0, 0, 0, 0.5);
     max-height: auto;
-    max-width: 30%;
+    max-width: 35%;
 }
 
 .about {
