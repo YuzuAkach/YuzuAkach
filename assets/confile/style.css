@@ -1,5 +1,5 @@
 body {
-    font-family: 'Sans Serif JP', 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', sans-serif;
+    font-family: 'Sans Serif JP', 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     margin: 0;
     padding: 0;
     background-image: linear-gradient(rgba(255, 255, 255, 0.95), rgba(255, 255, 255, 0.95)), url("/assets/media/image/kv_album_pc (1).webp");
@@ -50,19 +50,39 @@ a:hover {
     text-decoration: underline;
 }
 
+
+
 button {
-    background-color: rgb(79, 79, 79);
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    border-radius: 7px;
-    color: white;
-    padding: 0px;
-    width: 65%;
-    height: 35px;
-    margin: 5px;
+  /* Hilangkan warna default browser */
+  background-color: transparent;
+  
+  /* Styling utama */
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  color: rgba(25, 25, 25, 0.8);              /* Warna teks */
+  border: 2px solid #000000;   /* Warna garis tepi */
+  padding: 12px 24px;
+  font-size: 16px;
+  font-weight: bold;
+  border-radius: 8px;          /* Membuat sudut agak bulat */
+  cursor: pointer;
+  padding: 0px;
+  width: 65%;
+  height: 35px;
+  margin: 5px;
+  
+  /* Transisi agar halus saat di-hover */
+  transition: all 0.3s ease;
 }
 
+/* Efek saat kursor diarahkan ke button */
 button:hover {
-    background-color: rgb(0, 134, 254);
+  background-color: rgba(25, 25, 25, 0.8);   /* Background muncul */
+  color: white;                /* Teks berubah jadi putih */
+}
+
+/* Efek saat button diklik */
+button:active {
+  transform: scale(0.95);      /* Memberikan efek menekan */
 }
 
 hr {
@@ -95,4 +115,13 @@ center {
 .credit {
     padding-left: 10%;
     padding-right: 10%;
+}
+
+.a-nohighlight {
+    color: black;
+    text-decoration: none;
+}
+
+.a-nohighlight:hover {
+    text-decoration: none;
 }
