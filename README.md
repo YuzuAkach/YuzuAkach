@@ -2,7 +2,7 @@
 
 **A bit about me :**
 
-* **Pronouns :** *Preffer neutral gender (actually male)
+* **Pronouns :** He/Him
 * **Speech :** Indonesian, English, Japanese _(using translator mostly)_
 * **Skills :** Basic HTML, CSS a.k.a basic skilled
 * **Activity freq :** Rarely active
